@@ -27,8 +27,8 @@ This project explores the [Our World in Data](https://ourworldindata.org/covid-d
 2. **Cleaned** each of the datasets on **Excel** by deleting columns I did not need as I was mainly focusing on the number of cases, deaths, vaccinations, population, and date. I also **filtered** out any nulls and blanks.
 3. Explored the data using **BigQuery SQL** and wrote several queries that would be beneficial when making visualizations.
 4. Used **JOIN** function to combine the COVID Deaths and Vaccinations datasets.
-5. Calculated the mortality rate, infection rate, and vaccination rate based on the population on SQL. This allowed me to design a **correlation scatterplot** to see how **infection rate** and **vaccination rate** are related.
-6. **Visualized** the data on **Tableau Public** and designed several visuals such as two **interactive** color-coded maps and a counter that shows the number of COVID Deaths over time.
+5. Utilized **CTEs** to create new variables such as RollingPeopleInfected and RollingPeopleVaccinated to count how many people were infected and vaccinated after a specific date. These two variables were then divided by the population to calculate the infection and vaccination rate for each country. This allowed me to design a **correlation scatterplot** to see how **infection rate** and **vaccination rate** are related. Check the [query](https://github.com/jaylenroope-afk/CovidData/blob/main/SQL%20Queries/InfvsVacCorrelationQuery.sql) out.
+7. **Visualized** the data on **Tableau Public** and designed several visuals such as two **interactive** color-coded maps and a counter that shows the number of COVID Deaths over time.
 
 ---
 
