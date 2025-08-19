@@ -6,18 +6,18 @@ This project explores the [Our World in Data](https://ourworldindata.org/covid-d
 
 ## 📁 Project Structure
 
-- /data - Contains raw and processed CSV files used in the project
-- /SQL Queries - Includes .sql files that were used to pull important values and transform the raw data
-- /Tableau Visualizations - Includes png and twbx files of visualizations created in Tableau. 
+- /[data](https://github.com/jaylenroope-afk/CovidData/tree/main/data) - Contains raw and processed CSV files used in the project
+- /[SQL Queries](https://github.com/jaylenroope-afk/CovidData/tree/main/SQL%20Queries) - Includes .sql files that were used to pull important values and transform the raw data
+- /[Tableau Visualizations](https://github.com/jaylenroope-afk/CovidData/tree/main/Tableau%20Visualizations) - Includes png and twbx files of visualizations created in Tableau. 
 
 ---
 
 ## 🔧 Tools Used
 
--Excel (Data Cleaning, Sorting/Filtering, Scatterplot)
--BigQuery SQL (Data Transformations, Creating New Variables, Joining Datasets)
--Tableau Public (Data Visualizations)
--GitHub (Documentation)
+- Excel (Data Cleaning, Sorting/Filtering, Scatterplot)
+- BigQuery SQL (Data Transformations, Creating New Variables, Joining Datasets)
+- Tableau Public (Data Visualizations)
+- GitHub (Documentation)
 
 ---
 
