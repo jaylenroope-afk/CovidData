@@ -6,9 +6,9 @@ This project explores the [Our World in Data](https://ourworldindata.org/covid-d
 
 ## 📁 Project Structure
 
--/data - Contains raw and processed CSV files used in the project
--/SQL Queries - Includes .sql files that were used to pull important values and transform the raw data
--/Tableau Visualizations - Includes png and twbx files of visualizations created in Tableau. 
+- /data - Contains raw and processed CSV files used in the project
+- /SQL Queries - Includes .sql files that were used to pull important values and transform the raw data
+- /Tableau Visualizations - Includes png and twbx files of visualizations created in Tableau. 
 
 ---
 
