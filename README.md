@@ -1,5 +1,5 @@
-### 🦠 COVID-19 Death and Vaccination Analysis
----
+# 🦠 COVID-19 Death and Vaccination Analysis
+
 This project explores the [Our World in Data](https://ourworldindata.org/covid-deaths) COVID-19 dataset which contains data such as number of cases, deaths, vaccinations, among other important information. The goal of this project is to transform and analyze the COVID Deaths and Vaccinations dataset using SQL (BigQuery) and Excel, and use the cleaned dataset to design powerful, easy-to-understand visualizations on Tableau. Furthermore, a correlation scatterplot will be used to analyze the relationship between vaccination and infection rate.
 
 ---
