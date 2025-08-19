@@ -42,4 +42,4 @@ This project explores the [Our World in Data](https://ourworldindata.org/covid-d
 
 ## 📊 Tableau Public Visualizations
 
-[Click Here!](https://public.tableau.com/app/profile/jaylen.roope/vizzes)
+For my interactive visualizations --> [click here!](https://public.tableau.com/app/profile/jaylen.roope/vizzes)
